@@ -16,8 +16,10 @@ _add italic テスト(イタリック体)_
 a
 a
 
-`insert codeテスト`
-`System.out.println("Hello");`
+`insert codeテスト`  
+```java
+System.out.print("Hello");
+```
 
 [add a link URLテスト](https://www.google.com/)
 
